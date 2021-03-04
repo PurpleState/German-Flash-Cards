@@ -13,5 +13,10 @@ I have built this in python 3.8.
 
 Get started:
  - Install python (https://www.python.org/downloads/ --> specific release)
- - Install pandas (https://pypi.org/project/pandas/ --> pip3 install pandas)
- - python3 main.py (should run the main.py)
+ - Install pandas (https://pypi.org/project/pandas/ --> **pip3 install pandas**)
+ - **python3 main.py** (should run the main.py)
+
+
+Alternatively:
+ - work with an IDE like pycharm
+ - TODO: create virtual env
